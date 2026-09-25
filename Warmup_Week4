@@ -1,0 +1,30 @@
+/*
+Name:  Fernando O
+Title:  Warmup 9/25
+
+Concept:  Creating a responsive drawing using
+only lines that responds to the users mouse poistions
+mouseX and mouseY
+
+function setup() {
+  createCanvas(700, 600);
+}
+
+function draw() {
+  background("grey");
+
+fill("red");
+  strokeWeight(4);
+    stroke("black");
+  rect(100,50,100,275)
+
+fill("black");
+  strokeWeight(6);
+  stroke("gray");
+  circle(500,150,200)
+
+fill("green");
+  strokeWeight(10);
+  stroke("black");
+  triangle(350, 300, 150, 500, 550, 500)
+}
