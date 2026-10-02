@@ -2,7 +2,7 @@
 Name:  Fernando O
 Title:  Music in Shapes
 
-Concept:  This first sketch uses simple shapes that will help
+Concept:  This second sketch uses simple shapes that will help
 how to represent music using shapes, colors, and patterns.
 */
 
