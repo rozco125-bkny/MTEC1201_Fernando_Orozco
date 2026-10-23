@@ -126,5 +126,18 @@ function draw() {
     textAlign(CENTER, CENTER);
     text("||", 420, 470);
 
+// Welcome message
+if (millis() <5000) {
+  push();
+  fill("red");
+  noStroke();
+  textFont("Arial");
+  textSize(30);
+  textStyle(BOLD);
+  textAlign(CENTER, CENTER);
+  text("ENJOY THE MUSIC!", 350, 75);
+  pop();
 }
+}
+
 
